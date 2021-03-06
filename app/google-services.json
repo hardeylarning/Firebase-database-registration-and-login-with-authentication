@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "897224648203",
+    "project_id": "fir-databaseauth",
+    "storage_bucket": "fir-databaseauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897224648203:android:bc5fa6418c023a3bd5090e",
+        "android_client_info": {
+          "package_name": "com.rocktech.firebasedatabaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897224648203-1c85jo5hq5krbg2g8u71a86dq9gv3gtk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rocktech.firebasedatabaseauth",
+            "certificate_hash": "c8f3fd7ab27ca745ac45473070b2b49497c87fbc"
+          }
+        },
+        {
+          "client_id": "897224648203-hfvc17o8crbrs4l0qo30v8oj985n1qvq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj5-laF6vzM2zOeBYCEZTIbeqetmKbBiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897224648203-hfvc17o8crbrs4l0qo30v8oj985n1qvq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
